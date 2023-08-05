@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Experimental Psychology / Cognitive Neuroscience, University College London, 2020
+* MRes in Speech, Language and Cognition, University College London, 2012
+* BSc in Psychology, University of Nottingham, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 - ongoing: Bank for International Settlements (Innovation Hub London Centre) - Advisor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2022: Bank of England (Advanced Analytics) - Senior Research Data Scientist
+
+* 2015 - 2017: LendInvest - Data Scientist
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Project management
+* Research
+* Data science (ML/AI, building data driven applications, inferential statistics)
+* Training
 
 Publications
 ======
@@ -54,6 +48,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Open source
 ======
-* Currently signed in to 43 different slack teams
+* [GitHub](https://github.com/erzk)
