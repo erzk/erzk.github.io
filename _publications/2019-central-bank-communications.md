@@ -3,7 +3,7 @@ title: "Enhancing central bank communications using simple and relatable informa
 collection: publications
 permalink: /publication/2019-central-bank-communications
 excerpt: 'This paper is showing how simple and relatable information can make central bank's communication easier to understand. We conducted a large online experiment with a representative sample of UK population.'
-date: 2019
+date: 2019-12-01
 venue: 'Journal of Monetary Economics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Bholat, D., Broughton, N., Ter Meer, J., Walczak, E. (2019). Enhancing central bank communications using simple and relatable information; <i>Journal of Monetary Economics</i>. 108, 1-15.'

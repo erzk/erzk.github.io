@@ -3,7 +3,7 @@ title: "Impacts of the Covid-19 crisis: Evidence from 2 million UK SMEs"
 collection: publications
 permalink: /publication/2021-impacts-of-the-covid19-crisis
 excerpt: 'This paper analyses cash flows of all UK SMEs during the Covid-19 crisis.'
-date: 2021
+date: 2021-06-11
 venue: 'Bank of England Working Paper'
 paperurl: 'https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2021/impacts-of-the-covid-19-crisis-evidence-from-2-million-uk-smes.pdf'
 citation: 'Hurley, J., Karmakar, S., Markoska, E., Walczak, E., Walker, D. (2021). Impacts of the Covid-19 crisis: evidence from 2 million UK SMEs. <i>Bank of England Staff Working Paper No. 924</i>.'
