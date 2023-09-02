@@ -5,7 +5,7 @@ permalink: /publication/2019-the-language-of-rules
 excerpt: 'This paper is about measuring complexity of banking regulations. We use multiple measures and show how complexity increased following the post-2007 reforms.'
 date: 2019-10-24
 venue: 'Bank of England Staff Working Paper'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2019/the-language-of-rules-textual-complexity-in-banking-reforms.pdf'
 citation: 'Amadxarif, Z., Brookes, J., Garbarino, N., Patel, R., Walczak, E. (2019). The language of rules: textual complexity in banking reforms.
 <i>Bank of England Staff Working Paper No. 834</i>.'
 ---
