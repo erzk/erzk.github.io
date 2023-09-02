@@ -2,7 +2,7 @@
 title: "Enhancing central bank communications using simple and relatable information"
 collection: publications
 permalink: /publication/2019-central-bank-communications
-excerpt: 'This paper is showing how simple and relatable information can make central bank's communication easier to understand. We conducted a large online experiment with a representative sample of UK population.'
+excerpt: 'We conducted large online experiments with representative samples of the UK population showing how simple and relatable information can make central bank's communication easier to understand.'
 date: 2019-12-01
 venue: 'Journal of Monetary Economics'
 paperurl: 'https://doi.org/10.1016/j.jmoneco.2019.08.007'
